@@ -1,0 +1,558 @@
+Model has correctly detected a car with IoU of 0.9310757870842946
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8719960745217629
+Model has correctly detected a car with IoU of 0.7707570522114949
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.3333333333333333
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9254855599915734
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.6891218088002538
+Model has correctly detected a car with IoU of 0.690469760188947
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.6666666666666666
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9494279290059154
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.923296622660026
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9373166702807889
+Model has correctly detected a car with IoU of 0.76805138001823
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.3333333333333333
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9068044770127229
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.25
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8769436199654236
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8885407075054746
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9220131702684929
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.6472200613925089
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9426783656202868
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9274309874079142
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9227083879568423
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9673735566514811
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8629968707866027
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9763074469095191
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.947473863619929
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8764445070063517
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.93608896139992
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8867206096884718
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9457181838813471
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8649554838089174
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9283388325502107
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9387694146602367
+Model has correctly detected a car with IoU of 0.8379352795116798
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.25
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.903521287976076
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9449711590215992
+Model has correctly detected a car with IoU of 0.8590602024533315
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.6666666666666666
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9100906506508275
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9325881332540144
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7091152636316708
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9276661399576486
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9727770698192935
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9537271784380025
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.25
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7832746459288831
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9466649718249421
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9457722797313521
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9142025692137153
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9478622602554495
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.942074931340853
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8833573542309772
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9245338571463225
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8877607975466156
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9406907603640426
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.25
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9543473550844604
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9079991876129055
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9368591453647741
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7300203179846407
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9607475433797288
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9247531299923644
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9043343656379008
+Model has correctly detected a car with IoU of 0.5298653620372255
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.4
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9514763352925582
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8716259520821402
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9675573293825681
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9189579673652424
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9364552618547037
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9593019553588997
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9472501122007342
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8984420980382394
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7612344268952554
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9111698883920148
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9159364768512368
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9524450861448839
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9527497162133761
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9377296706438374
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9365974800422795
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9370346612329089
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.3333333333333333
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8172948943607937
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.2
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.6754827751658219
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9247373081708854
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.967344606168959
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.2
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9238811364050453
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.6861195979331318
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8614216482924161
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7073845194053872
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8735425930659808
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9335439081428504
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9150967611594915
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8717964838348176
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8931191991086684
+Model has correctly detected a car with IoU of 0.6525879006640001
+Model has correctly detected a car with IoU of 0.6033819213311085
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.75
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9196034440931645
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9063302929446624
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.7891764723094148
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9811578225583155
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9709406739247342
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9208623251242155
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9408180589624702
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9342812614012043
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8497510095600124
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9552653823020605
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9286482539182943
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9028457940602077
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8565431130560396
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9555600422836013
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9055590038942343
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.729764020346908
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8862334133169774
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8965166664809805
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.943569068663099
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9609758742820983
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9402393287246624
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.939693731074978
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9564017637934317
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9127912307160811
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9721618696876829
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9936487683568069
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9318818572596271
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.5
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9306866058431859
+Model has correctly detected a car with IoU of 0.7495763716895302
+-----------------------------------------------------------------------------
+Precision of this image is at value 0.6666666666666666
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.915185996359747
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8599683435627604
+Model has correctly detected a car with IoU of 0.7650739820215168
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9576243768175965
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9421702645579744
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8604309664051042
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9098369393307731
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8857653955932643
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9341818495116849
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9320797265696193
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9028740801879994
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8343012542464517
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9026939676543415
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8585773463022073
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9249035917427056
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9421750594598973
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9422242397852527
+Model has correctly detected a car with IoU of 0.6804181785958495
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.900071186110741
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8967472174314386
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.928646811614943
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.969761321131474
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8569125201702974
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9254853366284073
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9425136960592752
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8405345008526123
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9209975651934398
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9346851423683306
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.9443226085868027
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
+Model has correctly detected a car with IoU of 0.8323295576784394
+-----------------------------------------------------------------------------
+Precision of this image is at value 1.0
+---------------------------------END OF IMAGE---------------------------------
